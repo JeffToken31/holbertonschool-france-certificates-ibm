@@ -10,4 +10,10 @@ This repository contains my IBM certifications
 
 This course introduced me to Open source software, open source liscences and how to contribute to open source projet via GitHub
 
-![Certicat OSS](https://github.com/JeffToken31/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-1/certificate-oss.jpg)
+![Certicat OSS](https://github.com/JeffToken31/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-1/certificate-oss.jpg).
+
+## Certification: Agile Program Fundamentals
+
+This course intruduced me to agile principes and how it work.
+
+![Badge AGILE](https://github.com/JeffToken31/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-1/agile-explorer.png)
