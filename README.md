@@ -29,7 +29,8 @@ This course intruduced me to agile principes and how it work.
 
 ## Certification: SQL and Relational Databases
 
-This course introduced me Sql language (DDL, DML) and handle a relationa database (constraints, join, basics query, filtering...)
+This course introduced me Sql language (DDL, DML) and handle a relationa database (constraints, join, basics query, filtering...).
+It allow me to use Db2 on IBM cloud.
 
 ![Certicat SQL](https://github.com/JeffToken31/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-2/IBM_DB0101EN_Certificate_IBM_SkillsBuild_page-0001.jpg).
 
