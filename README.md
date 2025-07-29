@@ -40,6 +40,6 @@ It allow me to use Db2 on IBM cloud.
 
 This course introduced me management project etchniques and organisation
 
-![Badge PM](https://github.com/JeffToken31/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-2/IBM_DB0101EN_Certificate_IBM_SkillsBuild_page-0001.jpg).
+![Badge PM](https://github.com/JeffToken31/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-2/certificate-project-management.jpg).
 
 ---
