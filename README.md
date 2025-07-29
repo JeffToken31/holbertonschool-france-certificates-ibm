@@ -35,3 +35,11 @@ It allow me to use Db2 on IBM cloud.
 ![Certicat SQL](https://github.com/JeffToken31/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-2/IBM_DB0101EN_Certificate_IBM_SkillsBuild_page-0001.jpg).
 
 ---
+
+## Certification: Projet Management
+
+This course introduced me management project etchniques and organisation
+
+![Badge PM](https://github.com/JeffToken31/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-2/IBM_DB0101EN_Certificate_IBM_SkillsBuild_page-0001.jpg).
+
+---
