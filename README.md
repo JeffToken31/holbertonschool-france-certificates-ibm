@@ -43,3 +43,9 @@ This course introduced me management project etchniques and organisation
 ![Badge PM](https://github.com/JeffToken31/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-2/certificate-project-management.jpg).
 
 ---
+
+## Certification: Introduction to Cloud
+
+This course introduced me to the fundamentals of cloud computing, including its service and deployment models, core components, and emerging trends. I learned how cloud adoption supports application modernization, how to leverage hybrid and multicloud strategies, and gained insights into cloud security and compliance.
+
+![Certicat SQL](https://github.com/JeffToken31/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/Certificate-Introduction-to-cloud.jpg).
