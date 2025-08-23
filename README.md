@@ -6,8 +6,11 @@ This repository contains my IBM certifications
 
 ## List of certifications
 
-- **April 2025**: Open source software
+- **April 2025**: Open Source Software
 - **May 2025**: SQL and Relational Databases
+- **June 2025**: Agile Program Fundamentals
+- **July 2025**: Project Management
+- **August 2025**: Introduction to Cloud, Cybersecurity Fundamentals
 
 ---
 
