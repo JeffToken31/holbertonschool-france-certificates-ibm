@@ -49,3 +49,14 @@ This course introduced me management project etchniques and organisation
 This course introduced me to the fundamentals of cloud computing, including its service and deployment models, core components, and emerging trends. I learned how cloud adoption supports application modernization, how to leverage hybrid and multicloud strategies, and gained insights into cloud security and compliance.
 
 ![Certicat SQL](https://github.com/JeffToken31/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/Certificate-Introduction-to-cloud.jpg).
+
+---
+
+## Certification: Cybersecurity Fundamentals
+
+This course introduced me to the fundamentals of cybersecurity, including key concepts of confidentiality, integrity, and availability (CIA Triad).  
+I learned about common cyber threats and attack types (malware, phishing, social engineering), defense strategies, risk management, and security best practices to protect systems and data.
+
+![Certificate Cybersecurity](https://github.com/JeffToken31/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/cybersecurity_fundamentals.png)
+
+---
